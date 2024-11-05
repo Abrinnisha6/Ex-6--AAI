@@ -66,8 +66,13 @@ print ( "Antonyms : " ,set(antonyms) )
 
 ## OUTPUT :
 
-![image](https://github.com/user-attachments/assets/923a3741-4f73-4497-a343-65306720fc09)
+### PARTS OF SPEECH :
 
+![image](https://github.com/user-attachments/assets/41216163-157c-4059-a32b-dc2367fa70bd)
+
+### SYNONYMS AND ANTONYMS :
+
+![image](https://github.com/user-attachments/assets/aa471c25-f7a1-4833-be9a-d2e177af622b)
 
 ## Result :
 
